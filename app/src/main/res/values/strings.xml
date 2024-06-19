@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DAM_UC3_EliasTalledo</string>
+    <string name="textNombres">Nombres</string>
+    <string name="textApellidos">Apellidos</string>
+    <string name="textCorreo">Correo electrónico</string>
+    <string name="textContraseña">Contraseña nueva</string>
+    <string name="textFecha">Fecha de nacimiento</string>
+    <string name="textSexo">Sexo</string>
+    <string name="btnRegistrarte">Registrarte</string>
+</resources>
