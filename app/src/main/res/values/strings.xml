@@ -7,4 +7,6 @@
     <string name="textFecha">Fecha de nacimiento</string>
     <string name="textSexo">Sexo</string>
     <string name="btnRegistrarte">Registrarte</string>
+    <string name="radioButtonMale">Masculino</string>
+    <string name="radioButtonFemale">Femenino</string>
 </resources>

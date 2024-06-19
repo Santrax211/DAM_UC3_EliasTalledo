@@ -250,7 +250,7 @@
             android:layout_height="wrap_content"
             android:background="@color/white"
             android:drawableLeft="@drawable/baseline_male_24"
-            android:text="Masculino"
+            android:text="@string/radioButtonMale"
             android:textColor="@color/black"
             android:textSize="12sp" />
 
@@ -260,7 +260,7 @@
             android:layout_height="wrap_content"
             android:background="@color/white"
             android:drawableLeft="@drawable/baseline_female_24"
-            android:text="Femenino"
+            android:text="@string/radioButtonFemale"
             android:textColor="@color/black"
             android:textSize="12sp" />
     </RadioGroup>
